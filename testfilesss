@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Cool Website</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h1>Welcome to My Cool Website</h1>
+    <p>This is a paragraph about how cool my website is. It's got great content and a stylish design.</p>
+    <a href="#" class="btn">Learn More</a>
+  </main>
+  <footer>
+    <p>Copyright © 2023 My Cool Website.
+      All rights reserved.</p>
+  </footer>
+  <script src="main.js"></script>
+</body>
+</html>
